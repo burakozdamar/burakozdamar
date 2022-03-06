@@ -1,6 +1,8 @@
 <img align="right" src="https://github.com/burakozdamar/burakozdamar/blob/main/polaris_ozdamar_2018.jpg" alt="The photo of the north star I've taken" width=400px />
 
 ### Hi there 👋
+This is Burak OZDAMAR.
+
 I got my PhD from University of Strasbourg, The Doctoral College of Physics and Chemistry-Physics back in 2016 and I have been working in various projects in materials science since. 
 
 - 🔭 Check out my scientific works through [ORCID](https://orcid.org/0000-0001-7185-1978) or [Google Scholar](https://scholar.google.com/citations?user=BMkPc5AAAAAJ&hl=en)
