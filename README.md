@@ -1,7 +1,7 @@
-<img align="right" src="https://github.com/jglovier/jglovier/blob/main/polaris_ozdamar_2018.png" alt="The photo of the north star I've taken" width=400px />
+<img align="right" src="https://github.com/burakozdamar/burakozdamar/blob/main/polaris_ozdamar_2018.jpg" alt="The photo of the north star I've taken" width=400px />
 
 ### Hi there 👋
-
+B
 <!--
 **burakozdamar/burakozdamar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
