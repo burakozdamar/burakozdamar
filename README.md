@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/burakozdamar/burakozdamar/blob/main/polaris_ozdamar_2018.jpg" alt="The photo of the north star I've taken" width=600px />
+<img align="right" src="https://github.com/burakozdamar/burakozdamar/blob/main/polaris_ozdamar_2018.jpg" alt="The photo of the north star I've taken" width=400px />
 
 ### Hi there 👋
 This is Burak OZDAMAR.
